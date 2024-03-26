@@ -1,0 +1,11 @@
+body{
+   background-color:#FFFFE0
+}
+nav{
+   text-align: center 
+}
+
+nav a { 
+   padding: 20px;
+   background: #FFFAFA;
+}
